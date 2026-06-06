@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.1.9/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "fb91a9593b5091cbcfd4d8cced16c897affc100c13f6a202d5baf79fa156633c",
-  "description": "Cap nhat phien ban 1.1.9 - Sua doi giao dien, tinh chinh khung nhap link va cai thien hieu nang."
+  "version": "1.2.0",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.0/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "8a4cb7d01704dad34e4e609886f910e00f1fbfbcaacca1c90896b683d2687db6",
+  "description": "Cap nhat phien ban 1.2.0 - Toi uu hoa toc do tai TikTok qua cookie he thong, tang toc remux, sua loi retry khi tai loi va nang cao tinh nang dung tai lap tuc."
 }
