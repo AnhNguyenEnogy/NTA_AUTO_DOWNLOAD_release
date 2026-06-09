@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.1/NTA_AUTO_DOWNLOAD_1.2.1.zip",
-  "sha256": "d0034558228397b6fdad4a5a6a7bed87def129a2dd1d34c8d5925cc616094dd2",
-  "description": "Cập nhật phiên bản 1.2.1:\n- Tích hợp biểu tượng Logo gradient xanh-tím mới cực đẹp cho ứng dụng.\n- Tối ưu hóa lưu trữ cố định khóa bản quyền và cấu hình trong thư mục data/ tránh bị mất dữ liệu trên môi trường máy khách.\n- Khắc phục triệt để lỗi WinError 2 khi trích xuất ảnh Facebook (chạy trực tiếp in-process)."
+  "version": "1.2.2",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.2/NTA_AUTO_DOWNLOAD_1.2.2.zip",
+  "sha256": "4bc6abecef1941e399018e6c9d02fd17707377c46348b19598d40908814e577f",
+  "description": "Cập nhật phiên bản 1.2.2:\n- Nâng giới hạn số luồng tải ảnh tối đa từ 50 lên 500.\n- Tăng độ rộng ô nhập số luồng tải trên giao diện trực quan hơn."
 }
