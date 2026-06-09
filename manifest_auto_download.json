@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.3/NTA_AUTO_DOWNLOAD_1.2.3.zip",
-  "sha256": "226182ea82652feb0b72cf585333d141f794d8bb623a4703a4cc8f63e20391b5",
-  "description": "Cập nhật phiên bản 1.2.3:\n- Cải tiến giao diện tự động cập nhật: Giữ nguyên cửa sổ ứng dụng và hiển thị popup tải xuống trực quan.\n- Cài đặt nhanh chóng: Tự động chạy trình cài đặt sau khi tải xong và khởi động lại phiên bản mới nhất."
+  "version": "1.2.4",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.4/NTA_AUTO_DOWNLOAD_1.2.4.zip",
+  "sha256": "59944e56fd2a887693bb83154e67b40699f2aa9912b3222b7b38eae25a6671ea",
+  "description": "Cập nhật phiên bản 1.2.4:\n- Bản cập nhật thử nghiệm tính năng tự động tải và cài đặt trực tiếp ngay trong ứng dụng."
 }
