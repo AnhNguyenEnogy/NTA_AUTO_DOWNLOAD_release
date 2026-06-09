@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.2/NTA_AUTO_DOWNLOAD_1.2.2.zip",
-  "sha256": "4bc6abecef1941e399018e6c9d02fd17707377c46348b19598d40908814e577f",
-  "description": "Cập nhật phiên bản 1.2.2:\n- Nâng giới hạn số luồng tải ảnh tối đa từ 50 lên 500.\n- Tăng độ rộng ô nhập số luồng tải trên giao diện trực quan hơn."
+  "version": "1.2.3",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.3/NTA_AUTO_DOWNLOAD_1.2.3.zip",
+  "sha256": "226182ea82652feb0b72cf585333d141f794d8bb623a4703a4cc8f63e20391b5",
+  "description": "Cập nhật phiên bản 1.2.3:\n- Cải tiến giao diện tự động cập nhật: Giữ nguyên cửa sổ ứng dụng và hiển thị popup tải xuống trực quan.\n- Cài đặt nhanh chóng: Tự động chạy trình cài đặt sau khi tải xong và khởi động lại phiên bản mới nhất."
 }
