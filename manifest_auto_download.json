@@ -1,6 +1,6 @@
 {
   "version": "1.2.9",
   "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.9/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "acd34ecca02eb56e15e8a901bbb75daad093ba8b38e48fd8efb74c23161af6d9",
+  "sha256": "31612809da05c0870363707320b2b323b22ac996fc409d7a7242b71b41b763c7",
   "description": "Cập nhật phiên bản 1.2.9:\n- Khắc phục lỗi AttributeError 'LoadingSpinner' object has no attribute 'angle' gây crash ngầm luồng chính.\n- Tối ưu hóa tính năng tự động cập nhật của định dạng Standalone."
 }
