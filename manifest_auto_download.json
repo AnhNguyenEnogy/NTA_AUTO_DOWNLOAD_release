@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.5/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "23ea78b369c87ac638b6125de47958843e86fa87e091d788da661c7bd12bc521",
-  "description": "Cap nhat phien ban 1.2.5 - Sua doi giao dien, tinh chinh khung nhap link va cai thien hieu nang."
+  "version": "1.2.8",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.8/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "61a0d715f8b6be0a7aa2e53871c6040ade2ab7dcaf5a026ef2cd4dee14f51e40",
+  "description": "Cập nhật phiên bản 1.2.8:\n- Chuyển đổi mô hình phân phối từ One-file sang Standalone giúp tăng tính ổn định tối đa cho tính năng tự động cập nhật.\n- Sửa lỗi chặn tài nguyên CSS/hình ảnh khiến Playwright không lấy được link tải trực tiếp Douyin.\n- Tối ưu hóa dung lượng gói tải cập nhật, dọn dẹp các tệp tin dư thừa."
 }
