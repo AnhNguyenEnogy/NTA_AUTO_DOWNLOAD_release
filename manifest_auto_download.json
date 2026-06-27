@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.9/NTA_AUTO_DOWNLOAD.zip",
+  "version": "1.3.1",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.1/NTA_AUTO_DOWNLOAD.zip",
   "sha256": "",
-  "description": "Cập nhật phiên bản 1.2.9:\n- Khắc phục lỗi AttributeError 'LoadingSpinner' object has no attribute 'angle' gây crash ngầm luồng chính.\n- Tối ưu hóa tính năng tự động cập nhật của định dạng Standalone.\n- Tải xong tự động cài đặt và khởi động lại ứng dụng lập tức.\n- Thêm phân quyền Douyin kiểm soát thông tin bản quyền từ server.\n- Thiết kế lại toàn bộ giao diện Popup (PremiumMessageBox) mang phong cách Dark Mode cực đẹp.\n- Căn giữa hoàn hảo các nút bấm lựa chọn trong popup để tạo cảm giác hài hòa, thẩm mỹ.\n- Khắc phục triệt để lỗi không đè được file do khóa tiến trình và loại bỏ tệp ngoài version.txt.\n- Bảo vệ tuyệt đối chrome_profile và cookies/session của user khi chạy Update đè."
+  "description": "Cập nhật phiên bản 1.3.1:\n- Khắc phục triệt để lỗi tải Douyin bị icon trắng (lỗi câm) do định dạng Dash.\n- Tích hợp tính năng tự động tải song song và ghép luồng hình ảnh câm cùng luồng âm thanh bằng ffmpeg siêu tốc.\n- Nâng cấp luồng kết nối tải (keep-alive) và tăng kích thước chunk truyền tải lên 512KB giúp tối đa hóa tốc độ tải xuống gấp nhiều lần.\n- Loại bỏ việc khởi chạy script get_douyin_url.py qua subprocess ngoài, giúp ứng dụng hoạt động độc lập và ổn định tuyệt đối trên file EXE đóng gói."
 }
