@@ -1,6 +1,6 @@
 {
   "version": "1.2.9",
   "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.9/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "69fba01dea0d41dd9e652056c93db6b078c63042a7777c2be88312da1ce663c4",
-  "description": "Cập nhật phiên bản 1.2.9:\n- Khắc phục lỗi AttributeError 'LoadingSpinner' object has no attribute 'angle' gây crash ngầm luồng chính.\n- Tối ưu hóa tính năng tự động cập nhật của định dạng Standalone.\n- Tải xong tự động cài đặt và khởi động lại ứng dụng lập tức.\n- Thêm phân quyền Douyin kiểm soát thông tin bản quyền từ server."
+  "sha256": "b61a51e8f0590037c3d9c143fb7025dce77ce12c34df84ba738d7db1550c156d",
+  "description": "Cập nhật phiên bản 1.2.9:\n- Khắc phục lỗi AttributeError 'LoadingSpinner' object has no attribute 'angle' gây crash ngầm luồng chính.\n- Tối ưu hóa tính năng tự động cập nhật của định dạng Standalone.\n- Tải xong tự động cài đặt và khởi động lại ứng dụng lập tức.\n- Thêm phân quyền Douyin kiểm soát thông tin bản quyền từ server.\n- Thiết kế lại toàn bộ giao diện Popup (PremiumMessageBox) mang phong cách Dark Mode cực đẹp."
 }
