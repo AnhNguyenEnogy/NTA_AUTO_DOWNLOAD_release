@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.2/NTA_AUTO_DOWNLOAD.zip",
+  "version": "1.3.3",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.3/NTA_AUTO_DOWNLOAD.zip",
   "sha256": "",
-  "description": "Cập nhật thử nghiệm phiên bản 1.3.2:\n- Xác minh tính năng tự động cập nhật hiển thị giao diện giải nén và thay file trực quan.\n- Fix lỗi cache CDN jsDelivr giúp nhận diện cập nhật tức thì."
+  "description": "Cập nhật thử nghiệm phiên bản 1.3.3:\n- Khắc phục lỗi truyền tham số trống làm kẹt tiến trình argparse trong Update.exe.\n- Cho phép hiển thị cửa sổ tiến trình giải nén ghi đè tệp tin cập nhật trực quan."
 }
