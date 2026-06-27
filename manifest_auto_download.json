@@ -1,6 +1,6 @@
 {
   "version": "1.2.9",
   "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.2.9/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "894d50b263051c435e9e495c6e2eba92d77816b23265457a9880d96de730a01d",
-  "description": "Cập nhật phiên bản 1.2.9:\n- Khắc phục lỗi AttributeError 'LoadingSpinner' object has no attribute 'angle' gây crash ngầm luồng chính.\n- Tối ưu hóa tính năng tự động cập nhật của định dạng Standalone.\n- Tải xong tự động cài đặt và khởi động lại ứng dụng lập tức.\n- Thêm phân quyền Douyin kiểm soát thông tin bản quyền từ server.\n- Thiết kế lại toàn bộ giao diện Popup (PremiumMessageBox) mang phong cách Dark Mode cực đẹp.\n- Khắc phục triệt để lỗi không đè được file do khóa tiến trình và loại bỏ tệp ngoài version.txt.\n- Bảo vệ tuyệt đối chrome_profile và cookies/session của user khi chạy Update đè."
+  "sha256": "a1a7a496c88c094c1ac482f8c4edfd9304a99b850ba58dc50418d9eca43cfe1c",
+  "description": "Cập nhật phiên bản 1.2.9:\n- Khắc phục lỗi AttributeError 'LoadingSpinner' object has no attribute 'angle' gây crash ngầm luồng chính.\n- Tối ưu hóa tính năng tự động cập nhật của định dạng Standalone.\n- Tải xong tự động cài đặt và khởi động lại ứng dụng lập tức.\n- Thêm phân quyền Douyin kiểm soát thông tin bản quyền từ server.\n- Thiết kế lại toàn bộ giao diện Popup (PremiumMessageBox) mang phong cách Dark Mode cực đẹp.\n- Căn giữa hoàn hảo các nút bấm lựa chọn trong popup để tạo cảm giác hài hòa, thẩm mỹ.\n- Khắc phục triệt để lỗi không đè được file do khóa tiến trình và loại bỏ tệp ngoài version.txt.\n- Bảo vệ tuyệt đối chrome_profile và cookies/session của user khi chạy Update đè."
 }
