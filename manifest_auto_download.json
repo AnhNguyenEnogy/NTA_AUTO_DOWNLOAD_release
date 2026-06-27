@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.4/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "",
-  "description": "Cập nhật thử nghiệm phiên bản 1.3.4:\n- Tiếp tục kiểm tra chu kỳ tự động cập nhật liên tục.\n- Đảm bảo hiển thị cửa sổ tiến trình giải nén ghi đè hoạt động ổn định."
+  "version": "1.3.5",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.5/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "96D2484873D6DAC891249543EC36F1A9281449D4CB7B24E5A5F6CF01E599BDE9",
+  "description": "Cập nhật phiên bản 1.3.5:\n- Tối ưu tải Douyin bằng signed API, giảm lag UI khi tải nhiều video.\n- Sửa quyền Douyin theo license Auto Download.\n- Sửa lỗi cập nhật tiến trình và bỏ remux ffmpeg không cần thiết cho Douyin."
 }
