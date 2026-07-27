@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.5/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "96D2484873D6DAC891249543EC36F1A9281449D4CB7B24E5A5F6CF01E599BDE9",
-  "description": "Cập nhật phiên bản 1.3.5:\n- Tối ưu tải Douyin bằng signed API, giảm lag UI khi tải nhiều video.\n- Sửa quyền Douyin theo license Auto Download.\n- Sửa lỗi cập nhật tiến trình và bỏ remux ffmpeg không cần thiết cho Douyin."
+  "version": "1.3.6",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.6/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "27159ca2f8ea6526ae7bea843cef42fb658cb86042f48f98a46bfd3815d6b339",
+  "description": "Cap nhat phien ban 1.3.6:\n- Cai thien quet kenh Facebook Guest, khong can dang nhap/cookie.\n- Dung quet sau 5 lan lien tiep khong co Reel moi, bo vong quet Videos bi lap.\n- Them checkpoint khoi phuc khi quet bi gian doan.\n- Tang retry Facebook va tu xoa tep am thanh/video trung gian sau khi ghep."
 }
