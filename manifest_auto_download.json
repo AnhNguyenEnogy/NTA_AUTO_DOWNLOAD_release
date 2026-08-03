@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.6/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "27159ca2f8ea6526ae7bea843cef42fb658cb86042f48f98a46bfd3815d6b339",
-  "description": "Cap nhat phien ban 1.3.6:\n- Cai thien quet kenh Facebook Guest, khong can dang nhap/cookie.\n- Dung quet sau 5 lan lien tiep khong co Reel moi, bo vong quet Videos bi lap.\n- Them checkpoint khoi phuc khi quet bi gian doan.\n- Tang retry Facebook va tu xoa tep am thanh/video trung gian sau khi ghep."
+  "version": "1.3.7",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.7/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "56583aafb6e21bfe53d1d6ca1a7b12806c169e4ec9d7660012738efdaef40060",
+  "description": "Cap nhat phien ban 1.3.7:\n- Uu tien tai TikTok qua TikWM va TikMate nhu extension de lay MP4 co san hinh va tieng.\n- Moi phuong thuc duoc thu toi da 2 lan truoc khi chuyen sang fallback tiep theo.\n- Gioi han toi da 2 video TikTok dong thoi va gian request resolver it nhat 700 ms.\n- Giu TikTok truc tiep, LoveTik va yt-dlp lam cac lop fallback."
 }
