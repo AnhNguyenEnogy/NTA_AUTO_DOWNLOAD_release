@@ -1,6 +1,6 @@
 {
-  "version": "1.3.8",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.8/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "f66194118283f1e010d9ce42170a3eb21d920cf0ab2f65697b6bb08ddf307451",
-  "description": "Cap nhat phien ban 1.3.8:\n- Sua loi quet kenh TikTok tra ve 0 video khi yt-dlp khong lay duoc secUid hoac gap WAF.\n- Tu dong fallback sang trang embed TikTok de lay video public, ten kenh va follower.\n- Doc stderr cua yt-dlp, them timeout va retry de tranh quet im lang hoac bi treo.\n- Khong can dang nhap hoac cookie TikTok cho luong fallback."
+  "version": "1.3.9",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.9/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "b5770af44401c486e613b5f33d8b05db56abbc2e81286a68d7cf99aa02f336de",
+  "description": "Cap nhat phien ban 1.3.9:\n- Sua loi ban 1.3.8 chi quet 9 video khi TikTok day luong sang trang embed.\n- Tu dong lay secUid public tu trang mobile va quet lai toan bo lich su kenh bang yt-dlp.\n- Trang embed chi con la phuong an cuu cuoi khi luong quet day du that bai.\n- Khong can dang nhap hoac cookie TikTok."
 }
