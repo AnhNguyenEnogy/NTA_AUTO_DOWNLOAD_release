@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.0/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "eb18d23bf7ad1de2fb679f50ddf9dc924ed059ada20ab2a1af17b9fa22f0405d",
-  "description": "Cap nhat phien ban 1.4.0:\n- Toi uu tai TikTok toc do cao voi curl_cffi gia lap TLS Chrome.\n- Gian cach thong minh khi boc tach link, chong nghen va chong rate-limit TikWM (1 req/s).\n- Khong che yt-dlp toi da 2 tien trinh dong thoi, ngan ngua qua tai RAM va crash tool khi tai 20 luong.\n- Bao ve session tuyet doi: khong ghi de danh sach rong khi tat app, tu dong luu ngay khi quet xong.\n- Nap danh sach hang nghin video sieu toc (duoi 0.2s) va tu dong nhan dien video da tai (tich xanh) de Resume tiep tuc de dang."
+  "version": "1.4.1",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.1/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "10316abc042ca9b5e05d6a36886edc4150c2a3aca1b7809f47e0f999de67ca82",
+  "description": "Cap nhat phien ban 1.4.1:\n- Toi uu hoa toc do quet kenh TikTok: ket noi endpoint API feed chuyen dung tiktokv.com, tang toc tai trang phan trang video len hon 40%.\n- Tinh chinh mang va giam do tre thu lai, giup du lieu video trut ve bang lien tuc va muot ma.\n- Giu vung co che quet chuan 100% video qua secUid public, khong sot video va khong bi han che."
 }
