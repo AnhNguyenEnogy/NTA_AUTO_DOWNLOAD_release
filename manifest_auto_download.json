@@ -1,6 +1,6 @@
 {
-  "version": "1.3.9",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.3.9/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "b5770af44401c486e613b5f33d8b05db56abbc2e81286a68d7cf99aa02f336de",
-  "description": "Cap nhat phien ban 1.3.9:\n- Sua loi ban 1.3.8 chi quet 9 video khi TikTok day luong sang trang embed.\n- Tu dong lay secUid public tu trang mobile va quet lai toan bo lich su kenh bang yt-dlp.\n- Trang embed chi con la phuong an cuu cuoi khi luong quet day du that bai.\n- Khong can dang nhap hoac cookie TikTok."
+  "version": "1.4.0",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.0/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "eb18d23bf7ad1de2fb679f50ddf9dc924ed059ada20ab2a1af17b9fa22f0405d",
+  "description": "Cap nhat phien ban 1.4.0:\n- Toi uu tai TikTok toc do cao voi curl_cffi gia lap TLS Chrome.\n- Gian cach thong minh khi boc tach link, chong nghen va chong rate-limit TikWM (1 req/s).\n- Khong che yt-dlp toi da 2 tien trinh dong thoi, ngan ngua qua tai RAM va crash tool khi tai 20 luong.\n- Bao ve session tuyet doi: khong ghi de danh sach rong khi tat app, tu dong luu ngay khi quet xong.\n- Nap danh sach hang nghin video sieu toc (duoi 0.2s) va tu dong nhan dien video da tai (tich xanh) de Resume tiep tuc de dang."
 }
