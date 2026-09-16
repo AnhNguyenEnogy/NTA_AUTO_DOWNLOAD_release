@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.2/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "daae317266ecd991e549a7db5106ca522ba4d2e2b4991083baa2405d283df67c",
-  "description": "Cập nhật phiên bản 1.4.2:\n- Sửa lỗi tải YouTube hàng loạt: bỏ cookies YouTube tránh rate-limit, 20 luồng tải ổn định.\n- Chuyển sang subprocess yt-dlp.exe thay vì import yt_dlp, build nhanh hơn 15x.\n- Output luôn là MP4 (--merge-output-format mp4).\n- Format tối ưu: DASH mp4 → DASH any → progressive (1 lần gọi duy nhất).\n- Cài đặt Deno runtime để yt-dlp giải mã YouTube đầy đủ.\n- Cập nhật yt-dlp lên phiên bản mới nhất (2026.08.30)."
+  "version": "1.4.3",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.3/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "1c2274b2722fc3a9e0264d056097a363f8dc0347c1756c0a024befab123cfd28",
+  "description": "Cập nhật phiên bản 1.4.3:\n- Tải video H.264+AAC trực tiếp — không cần transcode, CPU nhẹ, xem ngay.\n- Cấu hình chia mảnh aria2c (1-15) cho video lớn.\n- Cấu hình số nhân ffmpeg (1-30) chạy song song.\n- Fix chất lượng Shorts dọc: 720p/1080p thay vì 360p.\n- Chất lượng video theo cấu hình user (720p-1080p-Max).\n- Priority BELOW_NORMAL cho yt-dlp/ffmpeg — không lag máy.\n- Bỏ sleep-requests, tối ưu tốc độ tải.\n- Mặc định 5 luồng, hỗ trợ đến 32 luồng."
 }
