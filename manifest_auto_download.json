@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.3/NTA_AUTO_DOWNLOAD_1.4.3.zip",
-  "sha256": "1c2274b2722fc3a9e0264d056097a363f8dc0347c1756c0a024befab123cfd28",
-  "description": "Cập nhật phiên bản 1.4.3:\n- Tải video H.264+AAC trực tiếp — không cần transcode, CPU nhẹ, xem ngay.\n- Cấu hình chia mảnh aria2c (1-15) cho video lớn.\n- Cấu hình số nhân ffmpeg (1-30) chạy song song.\n- Fix chất lượng Shorts dọc: 720p/1080p thay vì 360p.\n- Chất lượng video theo cấu hình user (720p-1080p-Max).\n- Priority BELOW_NORMAL cho yt-dlp/ffmpeg — không lag máy.\n- Bỏ sleep-requests, tối ưu tốc độ tải.\n- Mặc định 5 luồng, hỗ trợ đến 32 luồng."
+  "version": "1.4.4",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.4/NTA_AUTO_DOWNLOAD_1.4.4.zip",
+  "sha256": "28c314219fc9a1c40fa38073fe9ab31829a5fe359c17481733b526ad56370679",
+  "description": "Cập nhật phiên bản 1.4.4:\n- Thêm bộ Vân tay thiết bị & Trình duyệt chuyên sâu (Full Device & Browser Fingerprints) từ device_fingerprints.py: Client Hints (Sec-CH-UA, Platform, Model Galaxy S24, Pixel 8, iPhone 15, Windows 11, macOS), Sec-Fetch, Accept-Language xáo trộn đa ngôn ngữ.\n- Xoay vòng linh hoạt Player Client (android, ios, web_embedded, tv, web) chống triệt để HTTP 429 và kiểm tra bot khi tải hàng loạt vài trăm đến hàng nghìn video.\n- Tự động nạp cookies và tích hợp giải mã JavaScript (Node.js + EJS Challenge Solver) vượt qua giới hạn độ tuổi và bot check.\n- Khắc phục triệt để lỗi HTTP 416 (Requested range not satisfiable) bằng cơ chế ghi đè an toàn --force-overwrites.\n- Không dừng ngắt quãng toàn bộ hàng đợi khi gặp video riêng tư/bị xóa."
 }
