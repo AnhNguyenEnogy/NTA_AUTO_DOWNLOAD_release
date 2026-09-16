@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.1/NTA_AUTO_DOWNLOAD.zip",
-  "sha256": "10316abc042ca9b5e05d6a36886edc4150c2a3aca1b7809f47e0f999de67ca82",
-  "description": "Cap nhat phien ban 1.4.1:\n- Toi uu hoa toc do quet kenh TikTok: ket noi endpoint API feed chuyen dung tiktokv.com, tang toc tai trang phan trang video len hon 40%.\n- Tinh chinh mang va giam do tre thu lai, giup du lieu video trut ve bang lien tuc va muot ma.\n- Giu vung co che quet chuan 100% video qua secUid public, khong sot video va khong bi han che."
+  "version": "1.4.2",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.2/NTA_AUTO_DOWNLOAD.zip",
+  "sha256": "daae317266ecd991e549a7db5106ca522ba4d2e2b4991083baa2405d283df67c",
+  "description": "Cập nhật phiên bản 1.4.2:\n- Sửa lỗi tải YouTube hàng loạt: bỏ cookies YouTube tránh rate-limit, 20 luồng tải ổn định.\n- Chuyển sang subprocess yt-dlp.exe thay vì import yt_dlp, build nhanh hơn 15x.\n- Output luôn là MP4 (--merge-output-format mp4).\n- Format tối ưu: DASH mp4 → DASH any → progressive (1 lần gọi duy nhất).\n- Cài đặt Deno runtime để yt-dlp giải mã YouTube đầy đủ.\n- Cập nhật yt-dlp lên phiên bản mới nhất (2026.08.30)."
 }
