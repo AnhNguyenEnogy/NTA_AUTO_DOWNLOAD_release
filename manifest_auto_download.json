@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.5/NTA_AUTO_DOWNLOAD_1.4.5.zip",
-  "sha256": "66760cc630bd921cdcb513f2c09926f3c9dd432a1e899f3ccf32f37db2a5edf9",
-  "description": "Cập nhật phiên bản 1.4.5:\n- Chuẩn hóa 100% vân tay trình duyệt Desktop PC (Windows 11, Windows 10, macOS Sonoma/Ventura, Linux), loại bỏ hoàn toàn thiết bị di động để đảm bảo độ nét video tối đa.\n- Cố định cơ chế tải chuẩn chất lượng cao 1080p/720p, loại bỏ triệt để lỗi bị tự động hạ cấp xuống 360p (format 18).\n- Tối ưu cơ chế xoay vòng Player Client chống chặn IP và vượt giới hạn phiên kết nối YouTube.\n- Tối giản và dọn sạch giao diện thanh công cụ tải (bỏ các tùy chọn phân mảnh và ffmpeg thừa), tối ưu tải ổn định."
+  "version": "1.4.6",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.6/NTA_AUTO_DOWNLOAD_1.4.6.zip",
+  "sha256": "7ab45ab4b332cbf2a0e611e741322af2882eda8c4a33e1faff3663358d072418",
+  "description": "Cập nhật phiên bản 1.4.6:\n- Nâng cấp core yt-dlp mới nhất (16/09/2026) kèm solver giải mã JavaScript Challenge (yt-dlp-ejs + node runtime), vượt qua triệt để lỗi rate limit và xác thực bot khi tải dồn dập hàng nghìn video YouTube.\n- Khắc phục dứt điểm lỗi quét kênh/page Facebook Reels (chuẩn hóa truyền dữ liệu Playwright worker, loại bỏ lỗi trùng lặp tín hiệu).\n- Cơ chế 3 tầng tự động luân chuyển phiên kết nối và bộ 14 vân tay Desktop PC cao cấp (Windows, macOS, Linux).\n- Cố định chuẩn tải Full HD 1080p/720p, tối giản thanh công cụ tải video."
 }
