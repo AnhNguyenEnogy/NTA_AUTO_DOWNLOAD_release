@@ -1,6 +1,6 @@
 {
   "version": "1.4.5",
   "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.5/NTA_AUTO_DOWNLOAD_1.4.5.zip",
-  "sha256": "073292c996a819ef4037d821842dd66466b82810b6d990371ac3091aab96e92c",
+  "sha256": "1e6bd4da759173dc1c174d79607e2e7283e7b5dadcf0f945b3a7149e10227e8a",
   "description": "Cập nhật phiên bản 1.4.5:\n- Chuẩn hóa 100% vân tay trình duyệt Desktop PC (Windows 11, Windows 10, macOS Sonoma/Ventura, Linux), loại bỏ hoàn toàn thiết bị di động để đảm bảo độ nét video tối đa.\n- Cố định cơ chế tải chuẩn chất lượng cao 1080p/720p, loại bỏ triệt để lỗi bị tự động hạ cấp xuống 360p (format 18).\n- Tối ưu cơ chế xoay vòng Player Client chống chặn IP và vượt giới hạn phiên kết nối YouTube.\n- Tối giản và dọn sạch giao diện thanh công cụ tải (bỏ các tùy chọn phân mảnh và ffmpeg thừa), tối ưu tải ổn định."
 }
