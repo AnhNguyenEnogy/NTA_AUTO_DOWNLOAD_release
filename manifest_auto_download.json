@@ -1,6 +1,6 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.4/NTA_AUTO_DOWNLOAD_1.4.4.zip",
-  "sha256": "28c314219fc9a1c40fa38073fe9ab31829a5fe359c17481733b526ad56370679",
-  "description": "Cập nhật phiên bản 1.4.4:\n- Thêm bộ Vân tay thiết bị & Trình duyệt chuyên sâu (Full Device & Browser Fingerprints) từ device_fingerprints.py: Client Hints (Sec-CH-UA, Platform, Model Galaxy S24, Pixel 8, iPhone 15, Windows 11, macOS), Sec-Fetch, Accept-Language xáo trộn đa ngôn ngữ.\n- Xoay vòng linh hoạt Player Client (android, ios, web_embedded, tv, web) chống triệt để HTTP 429 và kiểm tra bot khi tải hàng loạt vài trăm đến hàng nghìn video.\n- Tự động nạp cookies và tích hợp giải mã JavaScript (Node.js + EJS Challenge Solver) vượt qua giới hạn độ tuổi và bot check.\n- Khắc phục triệt để lỗi HTTP 416 (Requested range not satisfiable) bằng cơ chế ghi đè an toàn --force-overwrites.\n- Không dừng ngắt quãng toàn bộ hàng đợi khi gặp video riêng tư/bị xóa."
+  "version": "1.4.5",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.5/NTA_AUTO_DOWNLOAD_1.4.5.zip",
+  "sha256": "073292c996a819ef4037d821842dd66466b82810b6d990371ac3091aab96e92c",
+  "description": "Cập nhật phiên bản 1.4.5:\n- Chuẩn hóa 100% vân tay trình duyệt Desktop PC (Windows 11, Windows 10, macOS Sonoma/Ventura, Linux), loại bỏ hoàn toàn thiết bị di động để đảm bảo độ nét video tối đa.\n- Cố định cơ chế tải chuẩn chất lượng cao 1080p/720p, loại bỏ triệt để lỗi bị tự động hạ cấp xuống 360p (format 18).\n- Tối ưu cơ chế xoay vòng Player Client chống chặn IP và vượt giới hạn phiên kết nối YouTube.\n- Tối giản và dọn sạch giao diện thanh công cụ tải (bỏ các tùy chọn phân mảnh và ffmpeg thừa), tối ưu tải ổn định."
 }
