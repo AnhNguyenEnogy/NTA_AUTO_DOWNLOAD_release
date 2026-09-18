@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.6/NTA_AUTO_DOWNLOAD_1.4.6.zip",
-  "sha256": "7ab45ab4b332cbf2a0e611e741322af2882eda8c4a33e1faff3663358d072418",
-  "description": "Cập nhật phiên bản 1.4.6:\n- Nâng cấp core yt-dlp mới nhất (16/09/2026) kèm solver giải mã JavaScript Challenge (yt-dlp-ejs + node runtime), vượt qua triệt để lỗi rate limit và xác thực bot khi tải dồn dập hàng nghìn video YouTube.\n- Khắc phục dứt điểm lỗi quét kênh/page Facebook Reels (chuẩn hóa truyền dữ liệu Playwright worker, loại bỏ lỗi trùng lặp tín hiệu).\n- Cơ chế 3 tầng tự động luân chuyển phiên kết nối và bộ 14 vân tay Desktop PC cao cấp (Windows, macOS, Linux).\n- Cố định chuẩn tải Full HD 1080p/720p, tối giản thanh công cụ tải video."
+  "version": "1.4.7",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.7/NTA_AUTO_DOWNLOAD_1.4.7.zip",
+  "sha256": "77f7db374af429f863d942ad8340b46e0d24c996e032d0084786d1d23aa10d28",
+  "description": "Cập nhật phiên bản 1.4.7:\n- Tối ưu tải TikTok: loại bỏ hoàn toàn việc tải và render ảnh gây quá tải CPU/FFmpeg với các bài đăng dạng Slideshow ảnh (tập trung tải video MP4 trực tiếp tốc độ cao).\n- Bổ sung cơ chế Turbo API quét siêu tốc danh sách video/reels Facebook thông qua GraphQL trực tiếp, trích xuất đầy đủ tiêu đề, lượt xem, thời lượng và thời gian đăng.\n- Tối ưu hóa hiệu năng, giảm tải CPU và nâng cấp độ ổn định tải đa luồng."
 }
