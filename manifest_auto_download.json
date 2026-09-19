@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.8/NTA_AUTO_DOWNLOAD_1.4.8.zip",
-  "sha256": "27e0fd079c602ba7e0a688380916a402ed146a9436358a7de3a49da4b49e3093",
-  "description": "Cập nhật phiên bản 1.4.8:\n- Nâng cấp luồng tải Facebook: loại bỏ aria2c, sử dụng bộ tải trực tiếp native yt-dlp 1 luồng mượt mà, tránh nghẽn kết nối và xung đột.\n- Cơ chế tự phục hồi đa tầng (Smart Fallback): ưu tiên tải Guest Mode không cookies chống lỗi 'Cannot parse data', tự động fallback có cookies khi gặp video riêng tư/nhóm kín.\n- Bổ sung trích xuất và hiển thị lỗi mạng chi tiết (phát hiện HTTP 429 quá nhiều luồng, HTTP 403, ngắt kết nối CDN)."
+  "version": "1.4.9",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.9/NTA_AUTO_DOWNLOAD_1.4.9.zip",
+  "sha256": "f925f3aaa400c61e31dc571ff01c3a7d6a964ce8694bb43d4b535369313a4cda",
+  "description": "Cập nhật phiên bản 1.4.9:\n- Khắc phục triệt để các cảnh báo log QFont::setPointSize của Qt C++ khi vẽ giao diện.\n- Tối ưu hóa cơ chế quét đa tầng TikTok (yt-dlp, secUid, embed fallback) ổn định trên cả môi trường biên dịch standalone EXE.\n- Đồng bộ hóa các thành phần phụ trợ yt-dlp, ffmpeg, aria2c đầy đủ khi đóng gói sản phẩm."
 }
