@@ -1,6 +1,6 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.7/NTA_AUTO_DOWNLOAD_1.4.7.zip",
-  "sha256": "77f7db374af429f863d942ad8340b46e0d24c996e032d0084786d1d23aa10d28",
-  "description": "Cập nhật phiên bản 1.4.7:\n- Tối ưu tải TikTok: loại bỏ hoàn toàn việc tải và render ảnh gây quá tải CPU/FFmpeg với các bài đăng dạng Slideshow ảnh (tập trung tải video MP4 trực tiếp tốc độ cao).\n- Bổ sung cơ chế Turbo API quét siêu tốc danh sách video/reels Facebook thông qua GraphQL trực tiếp, trích xuất đầy đủ tiêu đề, lượt xem, thời lượng và thời gian đăng.\n- Tối ưu hóa hiệu năng, giảm tải CPU và nâng cấp độ ổn định tải đa luồng."
+  "version": "1.4.8",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.8/NTA_AUTO_DOWNLOAD_1.4.8.zip",
+  "sha256": "27e0fd079c602ba7e0a688380916a402ed146a9436358a7de3a49da4b49e3093",
+  "description": "Cập nhật phiên bản 1.4.8:\n- Nâng cấp luồng tải Facebook: loại bỏ aria2c, sử dụng bộ tải trực tiếp native yt-dlp 1 luồng mượt mà, tránh nghẽn kết nối và xung đột.\n- Cơ chế tự phục hồi đa tầng (Smart Fallback): ưu tiên tải Guest Mode không cookies chống lỗi 'Cannot parse data', tự động fallback có cookies khi gặp video riêng tư/nhóm kín.\n- Bổ sung trích xuất và hiển thị lỗi mạng chi tiết (phát hiện HTTP 429 quá nhiều luồng, HTTP 403, ngắt kết nối CDN)."
 }
