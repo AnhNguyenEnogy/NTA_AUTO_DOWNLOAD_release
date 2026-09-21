@@ -1,6 +1,6 @@
 {
-  "version": "1.4.9",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.4.9/NTA_AUTO_DOWNLOAD_1.4.9.zip",
-  "sha256": "42c3a311a8a4aef86b04e5a5a49778d8bf7c5c8028a724bac8fbd22fbde35734",
-  "description": "Cập nhật phiên bản 1.4.9:\n- Khắc phục triệt để lỗi crash sập tool khi tải số lượng lớn video TikTok (>100 video) bằng connection pool an toàn.\n- Khắc phục các cảnh báo log QFont::setPointSize của Qt C++ khi vẽ giao diện.\n- Tối ưu hóa cơ chế quét đa tầng TikTok (yt-dlp, secUid, embed fallback) ổn định trên cả môi trường biên dịch standalone EXE.\n- Bổ sung faulthandler ghi log chi tiết phòng ngừa crash tầng C++."
+  "version": "1.5.0",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.5.0/NTA_AUTO_DOWNLOAD_1.5.0.zip",
+  "sha256": "50e95915343153212848b44b12505ae11fdc498f33e617033115d2508da82c11",
+  "description": "Cập nhật phiên bản 1.5.0:\n- Khắc phục triệt để lỗi crash sập tool khi tải số lượng lớn video TikTok (>100 video) bằng connection pool an toàn.\n- Khắc phục các cảnh báo log QFont::setPointSize của Qt C++ khi vẽ giao diện.\n- Tối ưu hóa cơ chế quét đa tầng TikTok (yt-dlp, secUid, embed fallback) ổn định trên cả môi trường biên dịch standalone EXE.\n- Bổ sung faulthandler ghi log chi tiết phòng ngừa crash tầng C++."
 }
