@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.5.0/NTA_AUTO_DOWNLOAD_1.5.0.zip",
-  "sha256": "50e95915343153212848b44b12505ae11fdc498f33e617033115d2508da82c11",
-  "description": "Cập nhật phiên bản 1.5.0:\n- Khắc phục triệt để lỗi crash sập tool khi tải số lượng lớn video TikTok (>100 video) bằng connection pool an toàn.\n- Khắc phục các cảnh báo log QFont::setPointSize của Qt C++ khi vẽ giao diện.\n- Tối ưu hóa cơ chế quét đa tầng TikTok (yt-dlp, secUid, embed fallback) ổn định trên cả môi trường biên dịch standalone EXE.\n- Bổ sung faulthandler ghi log chi tiết phòng ngừa crash tầng C++."
+  "version": "1.5.1",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_AUTO_DOWNLOAD_release/releases/download/v1.5.1/NTA_AUTO_DOWNLOAD_1.5.1.zip",
+  "sha256": "7e94dda70d4228400f323b205aaf817497e0c16b4bae0905d0240d98c3586f28",
+  "description": "Cập nhật phiên bản 1.5.1:\n- Tự động mở trình duyệt và làm mới cookie YouTube qua Chrome CDP trước khi tải, khắc phục triệt để lỗi Sign in to confirm you're not a bot.\n- Cơ chế kép bảo vệ cookie: Tự động làm mới định kỳ 20 phút và làm mới tức thì khi cookie hết hạn giữa chừng.\n- Đồng bộ vân tay thiết bị Windows Chromium khi dùng cookie đăng nhập để chống bot detection.\n- Tăng giới hạn tải video song song YouTube lên tối đa 10 luồng."
 }
